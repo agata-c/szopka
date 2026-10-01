@@ -5,7 +5,9 @@ Interaktywna szopka krakowska w 3D, unosząca się w kosmosie: błyszczące wie�
 
 **[▶ Otwórz demo na żywo](https://agata-c.github.io/szopka/)** · [English](README.md)
 
-![Podgląd szopki](szopka-preview.gif)
+[![Obejrzyj film z szopką](szopka-preview.jpg)](szopka-front-360-demo.mp4)
+
+[▶ Obejrzyj 14-sekundowy film](szopka-front-360-demo.mp4)
 
 ---
 
@@ -78,3 +80,4 @@ Potem otwórz `http://localhost:8000` (albo adres, który poda `serve`).
 **Szopka**, autorka **Agata Poniatowska-Ormicka**, jest udostępniona na licencji [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.pl). Możesz ją udostępniać i przerabiać, także komercyjnie, pod warunkiem podania autorstwa. Jeśli coś na niej zbudujesz, oznacz mnie albo podlinkuj, sprawisz mi tym ogromną radość.
 
 Elementy zewnętrzne mają własne warunki: Three.js (MIT) oraz nagranie hejnału (domena publiczna, Wikimedia Commons).
+

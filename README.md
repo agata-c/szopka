@@ -5,7 +5,9 @@ An interactive 3D *szopka krakowska* floating in space: foil-bright towers, a dr
 
 **[▶ Open the live demo](https://agata-c.github.io/szopka/)** · [Polski](README.pl.md)
 
-![Szopka preview](szopka-preview.gif)
+[![Watch the Szopka demo video](szopka-preview.jpg)](szopka-front-360-demo.mp4)
+
+[▶ Watch the 14-second video](szopka-front-360-demo.mp4)
 
 ---
 
@@ -78,3 +80,4 @@ Then open `http://localhost:8000` (or the address `serve` prints).
 **Szopka** by **Agata Poniatowska-Ormicka** is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You are free to share and adapt it, including commercially, as long as you give appropriate credit. If you build on it, a tag or a link back would make my day.
 
 Third-party parts keep their own terms: Three.js (MIT), and the hejnał recording (public domain, Wikimedia Commons).
+
