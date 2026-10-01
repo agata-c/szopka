@@ -5,9 +5,9 @@ An interactive 3D *szopka krakowska* floating in space: foil-bright towers, a dr
 
 **[▶ Open the live demo](https://agata-c.github.io/szopka/)** · [Polski](README.pl.md)
 
-[![Watch the Szopka demo video](szopka-preview.jpg)](szopka-front-360-demo.mp4)
+[![Watch the Szopka demo video](szopka-preview.jpg)](https://agata-c.github.io/szopka/szopka-front-360-demo.mp4)
 
-[▶ Watch the 14-second video](szopka-front-360-demo.mp4)
+[▶ Watch the 14-second video](https://agata-c.github.io/szopka/szopka-front-360-demo.mp4)
 
 ---
 

@@ -5,9 +5,9 @@ Interaktywna szopka krakowska w 3D, unosząca się w kosmosie: błyszczące wie�
 
 **[▶ Otwórz demo na żywo](https://agata-c.github.io/szopka/)** · [English](README.md)
 
-[![Obejrzyj film z szopką](szopka-preview.jpg)](szopka-front-360-demo.mp4)
+[![Obejrzyj film z szopką](szopka-preview.jpg)](https://agata-c.github.io/szopka/szopka-front-360-demo.mp4)
 
-[▶ Obejrzyj 14-sekundowy film](szopka-front-360-demo.mp4)
+[▶ Obejrzyj 14-sekundowy film](https://agata-c.github.io/szopka/szopka-front-360-demo.mp4)
 
 ---
 
